@@ -28,7 +28,7 @@
     "posthtml": "^0.13.3",
     "posthtml-hash": "^1.1.1",
     "rimraf": "^3.0.2",
-    "rollup-plugin-copy": "^3.3.0",
+    "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-postcss": "^3.1.8",
     "sirv-cli": "^1.0.0"
   }
